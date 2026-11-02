@@ -6,7 +6,7 @@
         "Icon": "com.rafaelmardojai.Blanket",
         "Category": "Multimedia",
         "License": "MIT",
-        "Version": "0.1.0",
+        "Version": "0.2.0",
         "Authors": [{ "Name": "Titouan Réthoré" }]
     },
     "KPackageStructure": "Plasma/Applet",
