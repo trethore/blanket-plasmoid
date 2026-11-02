@@ -2,6 +2,8 @@
 
 A small KDE Plasma 6 system tray widget for [Blanket](https://github.com/rafaelmardojai/blanket).
 
+[![Screenshot of Blanket's system tray widget](image.png)](image.png)
+
 Click its icon to open Blanket or focus its existing window. Right-click to open its menu.
 
 > Uses Blanket's symbolic icon and desktop entry.
